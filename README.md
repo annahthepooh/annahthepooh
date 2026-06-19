@@ -1,8 +1,8 @@
-Hi, I’m Ann Akoth
-I am a self-taught data analyst with a strong foundation in SQL, Excel and Power BI driven by a passion for turning complex datasets into actionable insights.
-Additionally, I am a Digital Marketing Specialist deepening my expertise by learning to intergrate AI with Digital Marketing 
-I thrive on bridging th gap between data driven analytics and creating growth operations.
-I’m currently building learning python and german😊
+Hi, I’m Ann Akoth,
+a data analyst and a digital marketing specialist passionate about turning raw complex data into actionable business insights.
+My expertise include SQL, Excel, Power BI, Tableau, customer segmentation and marketing analytics. 
+I enjoy combining data analytics with digital marketing strategies to drive growth and improve decision making.
+I’m currently expanding my skills in python, AI applications and German😊.
 One can reach me through my email : annakoth64@gmail.com :)
 
 <!---
