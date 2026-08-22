@@ -1,16 +1,5 @@
 <!-- 1. Dynamic native theme banner switcher -->
-<p align="center">
-  <img alt="Light-themed profile banner introducing Ann Akoth as a data analyst and digital marketing specialist" src="./Assets/github banner light.png#gh-light-mode-only" />
-  <img alt="Dark-themed profile banner introducing Ann Akoth as a data analyst and digital marketing specialist" src="./Assets/github banner dark.png#gh-dark-mode-only" />
 
-  <p align="center">
-   <a href="mailto:annakoth64@gmail.com" style="colour: black"><b>Email Me</b></a> 
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-   <a href="https://github.com/annahthepooh" style="colour: black"><b>GitHub Portfolio</b></a> 
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/akoth-ann-10835b246/" style="colour: black"><b>Connect on LinkedIn</b></a>
-</p>
-</p>
 
 <p align="center">
   <picture>
@@ -24,7 +13,13 @@
 
 <!-- 2. Hand coded interactive quick links -->
 
-
+<p align="center">
+   <a href="mailto:annakoth64@gmail.com" style="colour: black"><b>Email Me</b></a> 
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+   <a href="https://github.com/annahthepooh" style="colour: black"><b>GitHub Portfolio</b></a> 
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/akoth-ann-10835b246/" style="colour: black"><b>Connect on LinkedIn</b></a>
+</p>
 ---
 
 # Hi, I’m Ann Akoth 😊
@@ -102,6 +97,6 @@ A data analyst and a digital marketing specialist passionate about turning raw c
 ###  Get In Touch!
 I am always open to collaborating on data analytics projects, marketing strategies or just networking!
 
-[![LinkedIn logo linking to Ann Akoth’s LinkedIn profile]("./Assets/linkedin logo.png")](https://www.linkedin.com/in/akoth-ann-10835b246/)
-[![Email envelope icon linking to Ann Akoth’s email address]("./Assets/email.png")](mailto:annakoth64@gmail.com)
+[![LinkedIn]("./Assets/linkedin logo.png")](https://www.linkedin.com/in/akoth-ann-10835b246/)
+[![Email]("./Assets/email.png")](mailto:annakoth64@gmail.com)
 
