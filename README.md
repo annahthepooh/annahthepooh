@@ -3,17 +3,17 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/Github banner dark.png">
     <source media="(prefers-color-scheme: light)" srcset="./assets/github banner light.png">
-    <img alt="Ann Akoth Data Analyst Profile Banner" src="./assets/github banner light.png" width="100%">
+    <img alt="Ann Akoth Data Analyst Profile Banner" src="./assets/github banner light.png">
   </picture>
 </p>
 
 <!-- 2. Hand coded interactive quick links -->
 <p align="center">
-   <a href="mailto:annakoth64@gmail.com"><b>Email Me</b></a> 
+   <a href="mailto:annakoth64@gmail.com" style="colour: black"><b>Email Me</b></a> 
   &nbsp;&nbsp;•&nbsp;&nbsp;
-   <a href="https://github.com/annahthepooh"><b>GitHub Portfolio</b></a> 
+   <a href="https://github.com/annahthepooh" style="colour: black"><b>GitHub Portfolio</b></a> 
   &nbsp;&nbsp;•&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/akoth-ann-10835b246/"><b>Connect on LinkedIn</b></a>
+   <a href="https://www.linkedin.com/in/akoth-ann-10835b246/" style="colour: black"><b>Connect on LinkedIn</b></a>
 </p>
 
 ---
@@ -24,13 +24,35 @@ A data analyst and a digital marketing specialist passionate about turning raw c
 
 
 ###  My Toolbox
+
 <p align="left">
-  <img src="./Assets/sql color.png" alt="SQL" />
-  <img src="./Assets/excel color.png" alt="Excel" />
-  <img src="./Assets/power bi color.png" alt="Power BI" />
-  <img src="./Assets/excel color.png" alt="Excel" alt="Tableau" />
-  <img src="./Assets/marketing analytics.png" alt="Marketing Analytics" />
+  <!-- SQL -->
+  <span style="position: relative; display: inline-block; margin-right: 15px;">
+    <img src="./Assets/sql color.png" alt="SQL" />
+    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.6); padding: 2px 5px; font-size: 12px;">SQL</span>
+  </span>
+
+  <!-- Excel -->
+  <span style="position: relative; display: inline-block; margin-right: 15px;">
+    <img src="./Assets/excel color.png" alt="Excel" />
+    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.6); padding: 2px 5px; font-size: 12px;">Excel</span>
+  </span>
+
+  <!-- Power BI -->
+  <span style="position: relative; display: inline-block; margin-right: 15px;">
+    <img src="./Assets/power bi color.png" alt="Power BI" />
+    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.6); padding: 2px 5px; font-size: 12px;">Power BI</span>
+  </span>
+
+  <!-- Marketing Analytics -->
+  <span style="position: relative; display: inline-block; margin-right: 15px;">
+    <img src="./Assets/marketing analytics.png" alt="Marketing Analytics" />
+    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.6); padding: 2px 5px; font-size: 12px;">Marketing</span>
+  </span>
 </p>
+
+
+
 
 ### Areas of Expertise
 - **Analytics & Strategy:** Customer segmentation and tying data directly to digital marketing strategies.
@@ -67,6 +89,6 @@ A data analyst and a digital marketing specialist passionate about turning raw c
 ###  Get In Touch!
 I am always open to collaborating on data analytics projects, marketing strategies or just networking!
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/akoth-ann-10835b246/)
-[![Email](https://shields.io)](mailto:annakoth64@gmail.com)
+[![LinkedIn]("./Assets/linkedin logo.png")](https://www.linkedin.com/in/akoth-ann-10835b246/)
+[![Email]("./Assets/email.png")](mailto:annakoth64@gmail.com)
 
