@@ -1,7 +1,7 @@
 <!-- 1. Dynamic native theme banner switcher -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/Github banner dark.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github banner dark.png">
     <source media="(prefers-color-scheme: light)" srcset="./assets/github banner light.png">
     <img alt="Ann Akoth Data Analyst Profile Banner" src="./assets/github banner light.png">
   </picture>
@@ -25,27 +25,34 @@ A data analyst and a digital marketing specialist passionate about turning raw c
 
 ###  My Toolbox
 
-<div align="left">
+<div style="display: flex; flex-direction: row; gap: 20px; align-items: flex-start; justify-content: flex-start; white-space: nowrap;">
+  
   <!-- SQL -->
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img src="./Assets/sql color.png" alt="SQL" /><br>SQL
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
+    <img src="./Assets/sql color.png" alt="SQL" style="width: 60px; height: 60px; object-fit: contain; margin-bottom: 6px;" />
+    <span style="font-family: sans-serif; font-size: 13px;">SQL</span>
   </div>
 
   <!-- Excel -->
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img src="./Assets/excel color.png" alt="Excel" /><br>Excel
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
+    <img src="./Assets/excel color.png" alt="Excel" style="width: 60px; height: 60px; object-fit: contain; margin-bottom: 6px;" />
+    <span style="font-family: sans-serif; font-size: 13px;">Excel</span>
   </div>
 
   <!-- Power BI -->
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img src="./Assets/power bi color.png" alt="Power BI" /><br>Power BI
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
+    <img src="./Assets/power bi color.png" alt="Power BI" style="width: 60px; height: 60px; object-fit: contain; margin-bottom: 6px;" />
+    <span style="font-family: sans-serif; font-size: 13px;">Power BI</span>
   </div>
 
   <!-- Marketing Analytics -->
-  <div style="display: inline-block; text-align: center; margin-right: 15px;">
-    <img src="./Assets/marketing analytics.png" alt="Marketing Analytics" /><br>Marketing
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
+    <img src="./Assets/marketing analytics.png" alt="Marketing Analytics" style="width: 60px; height: 60px; object-fit: contain; margin-bottom: 6px;" />
+    <span style="font-family: sans-serif; font-size: 13px;">Marketing</span>
   </div>
+
 </div>
+
 
 
 ### Areas of Expertise
