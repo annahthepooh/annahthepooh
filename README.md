@@ -1,7 +1,15 @@
 <!-- 1. Dynamic native theme banner switcher -->
 <p align="center">
-  <img alt="Ann Akoth Data Analyst Profile Banner" src="./Assets/github banner light.png#gh-light-mode-only" />
-  <img alt="Ann Akoth Data Analyst Profile Banner" src="./Assets/github banner dark.png#gh-dark-mode-only" />
+  <img alt="Light-themed profile banner introducing Ann Akoth as a data analyst and digital marketing specialist" src="./Assets/github banner light.png#gh-light-mode-only" />
+  <img alt="Dark-themed profile banner introducing Ann Akoth as a data analyst and digital marketing specialist" src="./Assets/github banner dark.png#gh-dark-mode-only" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Assets/github banner dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./Assets/github banner light.png">
+    <img alt="Light-themed profile banner introducing Ann Akoth as a data analyst and digital marketing specialist" src="./Assets/github banner light.png">
+  </picture>
 </p>
 
 
@@ -24,36 +32,30 @@ A data analyst and a digital marketing specialist passionate about turning raw c
 
 ###  My Toolbox
 
-<table align="left">
+<table align="left" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <!-- SQL -->
-    <td align="center" valign="top" width="100">
-      <img src="./Assets/sql color.png" alt="SQL" width="60" height="60" /><br />
-      <sub>SQL</sub>
+    <!-- 1st: SQL -->
+    <td align="center" valign="top" width="100" style="border: none;">
+      <img src="./Assets/sql color.png" alt="SQL logo representing a database query language used for data analysis" width="60" height="60" /><br />
+      <sub style="font-family: sans-serif; font-size: 13px;">SQL</sub>
     </td>
-    <!-- Excel -->
-    <td align="center" valign="top" width="100">
-      <img src="./Assets/excel color.png" alt="Excel" width="60" height="60" /><br />
-      <sub>Excel</sub>
+    <!-- 2nd: Excel -->
+    <td align="center" valign="top" width="100" style="border: none;">
+      <img src="./Assets/excel color.png" alt="Microsoft Excel logo representing spreadsheet analysis and data organization" width="60" height="60" /><br />
+      <sub style="font-family: sans-serif; font-size: 13px;">Excel</sub>
     </td>
-    <!-- Power BI -->
-    <td align="center" valign="top" width="100">
-      <img src="./Assets/power bi color.png" alt="Power BI" width="60" height="60" /><br />
-      <sub>Power BI</sub>
+    <!-- 3rd: Power BI -->
+    <td align="center" valign="top" width="100" style="border: none;">
+      <img src="./Assets/power bi color.png" alt="Microsoft Power BI logo representing interactive business intelligence dashboards" width="60" height="60" /><br />
+      <sub style="font-family: sans-serif; font-size: 13px;">Power BI</sub>
     </td>
-    <!-- Tableau -->
-    <td align="center" valign="top" width="100">
-      <img src="./Assets/excel color.png" alt="Tableau" width="60" height="60" /><br />
-      <sub>Tableau</sub>
-    </td>
-    <!-- Marketing Analytics -->
-    <td align="center" valign="top" width="100">
-      <img src="./Assets/marketing analytics.png" alt="Marketing Analytics" width="60" height="60" /><br />
-      <sub>Marketing</sub>
+    <!-- 4th: Marketing Analytics -->
+    <td align="center" valign="top" width="100" style="border: none;">
+      <img src="./Assets/marketing analytics.png" alt="Marketing analytics icon representing data-informed digital marketing strategy" width="60" height="60" /><br />
+      <sub style="font-family: sans-serif; font-size: 13px;">Marketing</sub>
     </td>
   </tr>
 </table>
-
 
 ### Areas of Expertise
 - **Analytics & Strategy:** Customer segmentation and tying data directly to digital marketing strategies.
@@ -90,6 +92,6 @@ A data analyst and a digital marketing specialist passionate about turning raw c
 ###  Get In Touch!
 I am always open to collaborating on data analytics projects, marketing strategies or just networking!
 
-[![LinkedIn]("./Assets/linkedin logo.png")](https://www.linkedin.com/in/akoth-ann-10835b246/)
-[![Email]("./Assets/email.png")](mailto:annakoth64@gmail.com)
+[![LinkedIn logo linking to Ann Akoth’s LinkedIn profile]("./Assets/linkedin logo.png")](https://www.linkedin.com/in/akoth-ann-10835b246/)
+[![Email envelope icon linking to Ann Akoth’s email address]("./Assets/email.png")](mailto:annakoth64@gmail.com)
 
