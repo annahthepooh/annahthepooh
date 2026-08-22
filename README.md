@@ -1,11 +1,10 @@
 <!-- 1. Dynamic native theme banner switcher -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github banner dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github banner light.png">
-    <img alt="Ann Akoth Data Analyst Profile Banner" src="./assets/github banner light.png">
-  </picture>
+  <img alt="Ann Akoth Data Analyst Profile Banner" src="./Assets/github banner light.png#gh-light-mode-only" />
+  <img alt="Ann Akoth Data Analyst Profile Banner" src="./Assets/github banner dark.png#gh-dark-mode-only" />
 </p>
+
+
 
 <!-- 2. Hand coded interactive quick links -->
 <p align="center">
@@ -25,34 +24,35 @@ A data analyst and a digital marketing specialist passionate about turning raw c
 
 ###  My Toolbox
 
-<div style="display: flex; flex-direction: row; gap: 20px; align-items: flex-start; justify-content: flex-start; white-space: nowrap;">
-  
-  <!-- SQL -->
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-    <img src="./Assets/sql color.png" alt="SQL" style="width: 60px; height: 60px; object-fit: contain; margin-bottom: 6px;" />
-    <span style="font-family: sans-serif; font-size: 13px;">SQL</span>
-  </div>
-
-  <!-- Excel -->
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-    <img src="./Assets/excel color.png" alt="Excel" style="width: 60px; height: 60px; object-fit: contain; margin-bottom: 6px;" />
-    <span style="font-family: sans-serif; font-size: 13px;">Excel</span>
-  </div>
-
-  <!-- Power BI -->
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-    <img src="./Assets/power bi color.png" alt="Power BI" style="width: 60px; height: 60px; object-fit: contain; margin-bottom: 6px;" />
-    <span style="font-family: sans-serif; font-size: 13px;">Power BI</span>
-  </div>
-
-  <!-- Marketing Analytics -->
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-    <img src="./Assets/marketing analytics.png" alt="Marketing Analytics" style="width: 60px; height: 60px; object-fit: contain; margin-bottom: 6px;" />
-    <span style="font-family: sans-serif; font-size: 13px;">Marketing</span>
-  </div>
-
-</div>
-
+<table align="left">
+  <tr>
+    <!-- SQL -->
+    <td align="center" valign="top" width="100">
+      <img src="./Assets/sql color.png" alt="SQL" width="60" height="60" /><br />
+      <sub>SQL</sub>
+    </td>
+    <!-- Excel -->
+    <td align="center" valign="top" width="100">
+      <img src="./Assets/excel color.png" alt="Excel" width="60" height="60" /><br />
+      <sub>Excel</sub>
+    </td>
+    <!-- Power BI -->
+    <td align="center" valign="top" width="100">
+      <img src="./Assets/power bi color.png" alt="Power BI" width="60" height="60" /><br />
+      <sub>Power BI</sub>
+    </td>
+    <!-- Tableau -->
+    <td align="center" valign="top" width="100">
+      <img src="./Assets/excel color.png" alt="Tableau" width="60" height="60" /><br />
+      <sub>Tableau</sub>
+    </td>
+    <!-- Marketing Analytics -->
+    <td align="center" valign="top" width="100">
+      <img src="./Assets/marketing analytics.png" alt="Marketing Analytics" width="60" height="60" /><br />
+      <sub>Marketing</sub>
+    </td>
+  </tr>
+</table>
 
 
 ### Areas of Expertise
