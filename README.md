@@ -32,30 +32,38 @@ A data analyst and a digital marketing specialist passionate about turning raw c
 
 ###  My Toolbox
 
-<table align="left" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- 1st: SQL -->
-    <td align="center" valign="top" width="100" style="border: none;">
-      <img src="./Assets/sql color.png" alt="SQL logo representing a database query language used for data analysis" width="60" height="60" /><br />
-      <sub style="font-family: sans-serif; font-size: 13px;">SQL</sub>
-    </td>
-    <!-- 2nd: Excel -->
-    <td align="center" valign="top" width="100" style="border: none;">
-      <img src="./Assets/excel color.png" alt="Microsoft Excel logo representing spreadsheet analysis and data organization" width="60" height="60" /><br />
-      <sub style="font-family: sans-serif; font-size: 13px;">Excel</sub>
-    </td>
-    <!-- 3rd: Power BI -->
-    <td align="center" valign="top" width="100" style="border: none;">
-      <img src="./Assets/power bi color.png" alt="Microsoft Power BI logo representing interactive business intelligence dashboards" width="60" height="60" /><br />
-      <sub style="font-family: sans-serif; font-size: 13px;">Power BI</sub>
-    </td>
-    <!-- 4th: Marketing Analytics -->
-    <td align="center" valign="top" width="100" style="border: none;">
-      <img src="./Assets/marketing analytics.png" alt="Marketing analytics icon representing data-informed digital marketing strategy" width="60" height="60" /><br />
-      <sub style="font-family: sans-serif; font-size: 13px;">Marketing</sub>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <!-- SQL -->
+  <span style="position: relative; display: inline-block; margin-right: 15px;">
+    <img src="./Assets/sql color.png" alt="SQL" />
+    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.6); padding: 2px 5px; font-size: 12px;">SQL</span>
+  </span>
+
+  <!-- Excel -->
+  <span style="position: relative; display: inline-block; margin-right: 15px;">
+    <img src="./Assets/excel color.png" alt="Excel" />
+    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.6); padding: 2px 5px; font-size: 12px;">Excel</span>
+  </span>
+
+  <!-- Power BI -->
+  <span style="position: relative; display: inline-block; margin-right: 15px;">
+    <img src="./Assets/power bi color.png" alt="Power BI" />
+    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.6); padding: 2px 5px; font-size: 12px;">Power BI</span>
+  </span>
+
+  <!-- Tableau -->
+  <span style="position: relative; display: inline-block; margin-right: 15px;">
+    <img src="./Assets/excel color.png" alt="Tableau" />
+    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.6); padding: 2px 5px; font-size: 12px;">Tableau</span>
+  </span>
+
+  <!-- Marketing Analytics -->
+  <span style="position: relative; display: inline-block; margin-right: 15px;">
+    <img src="./Assets/marketing analytics.png" alt="Marketing Analytics" />
+    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.6); padding: 2px 5px; font-size: 12px;">Marketing</span>
+  </span>
+</p>
+  
 
 ### Areas of Expertise
 - **Analytics & Strategy:** Customer segmentation and tying data directly to digital marketing strategies.
