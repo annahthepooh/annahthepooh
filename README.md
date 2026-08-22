@@ -25,33 +25,27 @@ A data analyst and a digital marketing specialist passionate about turning raw c
 
 ###  My Toolbox
 
-<p align="left">
+<div align="left">
   <!-- SQL -->
-  <span style="position: relative; display: inline-block; margin-right: 15px;">
-    <img src="./Assets/sql color.png" alt="SQL" />
-    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.6); padding: 2px 5px; font-size: 12px;">SQL</span>
-  </span>
+  <div style="display: inline-block; text-align: center; margin-right: 15px;">
+    <img src="./Assets/sql color.png" alt="SQL" /><br>SQL
+  </div>
 
   <!-- Excel -->
-  <span style="position: relative; display: inline-block; margin-right: 15px;">
-    <img src="./Assets/excel color.png" alt="Excel" />
-    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.6); padding: 2px 5px; font-size: 12px;">Excel</span>
-  </span>
+  <div style="display: inline-block; text-align: center; margin-right: 15px;">
+    <img src="./Assets/excel color.png" alt="Excel" /><br>Excel
+  </div>
 
   <!-- Power BI -->
-  <span style="position: relative; display: inline-block; margin-right: 15px;">
-    <img src="./Assets/power bi color.png" alt="Power BI" />
-    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.6); padding: 2px 5px; font-size: 12px;">Power BI</span>
-  </span>
+  <div style="display: inline-block; text-align: center; margin-right: 15px;">
+    <img src="./Assets/power bi color.png" alt="Power BI" /><br>Power BI
+  </div>
 
   <!-- Marketing Analytics -->
-  <span style="position: relative; display: inline-block; margin-right: 15px;">
-    <img src="./Assets/marketing analytics.png" alt="Marketing Analytics" />
-    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.6); padding: 2px 5px; font-size: 12px;">Marketing</span>
-  </span>
-</p>
-
-
+  <div style="display: inline-block; text-align: center; margin-right: 15px;">
+    <img src="./Assets/marketing analytics.png" alt="Marketing Analytics" /><br>Marketing
+  </div>
+</div>
 
 
 ### Areas of Expertise
