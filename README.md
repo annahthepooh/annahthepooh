@@ -36,27 +36,45 @@
   <img src="./Assets/4th.png" alt="Skills and Tools" width="100%">
 </p>
 
----
+<!-- FEATURED ANALYTICS PROJECT -->
+<p align="center">
+  <img src="./Assets/1st project.png" alt="Skills and Tools" width="100%">
+  <img src="1st project.png" usemap="#image-map">
 
-###  Featured Analytics Projects
+  <map name="#image-map">
+    <area target="_blank" alt="Data-Driven Customer Insights---Marketing Strategy" title="Data-Driven Customer Insights---Marketing Strategy" href="https://github.com/annahthepooh/Data-Driven-Customer-Insights---Marketing-Strategy" coords="52,150,795,186" shape="rect">
+  </map>
+</p>
 
--  [**Data-Driven Customer Insights & Marketing Strategy**](https://github.com/annahthepooh/Data-Driven-Customer-Insights---Marketing-Strategy) 
-  *🚧 Project currently in active development — Bridging the gap between complex consumer datasets and digital marketing execution.*
-  * **Tools:** SQL | Digital Marketing Analytics | Power BI | Data Storytelling 
+<!-- 2ND -->
+<p align="center">
+  <img src="./Assets/2nd project.png" alt="Skills and Tools" width="100%">
+  <img src="2nd project.png" usemap="#image-map">
 
--  [**Customer Segmentation & RFM-Based Marketing Strategies**](https://github.com/annahthepooh/Customer-Segmentation-and-RFM-Based-Marketing-Strategies) 
-  *Customer segmentation analysis using the RFM (Recency, Frequency, and Monetary) framework to identify high-value customers and at-risk segments within an auto sales dataset.*
-  * **Tools:** Power BI | Excel | Marketing Analytics | Business Skills
+  <map name="#image-map">
+    <area target="_blank" alt="Customer Segmentation &amp;RFM-Based Marketing Strategies" title="Customer Segmentation &amp;RFM-Based Marketing Strategies" href="https://github.com/annahthepooh/Customer-Segmentation-and-RFM-Based-Marketing-Strategies" coords="52,76,874,18" shape="rect">
+  </map>
+</p>
 
--  [**Retail Sales Performance & Customer Insights Analysis**](https://github.com/annahthepooh/Retail-Sales-Performance-and-Customer-Insights-Analysis) 
-  *An RFM analysis on a global online retail shop dataset to perform precise customer segmentation, uncover customer purchasing patterns and provide actionable marketing strategies tailored to each segment.*
-  * **Tools:** SQL | Retail Analytics | Business Skills
+<!-- 3RD -->
+<p align="center">
+  <img src="./Assets/3rd project.png" alt="Skills and Tools" width="100%">
+  <img src="3rd project.png" usemap="#image-map">
 
--  [**Employee Attrition Risk Analysis & Retention Strategy**](https://github.com) 
-  *Evaluating HR workforce data to isolate key risk factors contributing to employee turnover and building data backed strategies to improve retention.
-  * **Tools:** Excel | Tableau | Advanced Analytics 
+  <map name="#image-map">
+    <area target="_blank" alt="Retail Sales Performance &amp;Customer Insights Analysis" title="Retail Sales Performance &amp;Customer Insights Analysis" href="https://github.com/annahthepooh/Retail-Sales-Performance-and-Customer-Insights-Analysis" coords="" shape="rect">
+  </map>
+</p>
 
----
+<!-- 4TH -->
+<p align="center">
+  <img src="./Assets/4th project.png" alt="Skills and Tools" width="100%">
+  <img src="4th project.png" usemap="#image-map">
+
+  <map name="#image-map">
+    <area target="_blank" alt="Employee Attrition Risk Analysis &amp;Retention Strategy" title="Employee Attrition Risk Analysis &amp;Retention Strategy" href="https://github.com/annahthepooh/Employee-Attrition-Risk-Analysis-and-Retention-Strategy" coords="61,66,822,108" shape="rect">
+  </map>
+</p>
 
 <!-- CONTACT -->
 <p align="center">
