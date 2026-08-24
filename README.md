@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-5B3442?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="annakoth64@gmail.com">
-    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-B57A8A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Email">
+  <a href="mailto:annakoth64@gmail.com">
+    <img src="https://shields.io/badge/Email" alt="Email">
   </a>
   <img scr="in touch.png" usemap="#image-map">
 
@@ -39,41 +39,21 @@
 <!-- FEATURED ANALYTICS PROJECT -->
 <p align="center">
   <img src="./Assets/1st project.png" alt="Skills and Tools" width="100%">
-  <img src="1st project.png" usemap="#image-map">
-
-  <map name="#image-map">
-    <area target="_blank" alt="Data-Driven Customer Insights---Marketing Strategy" title="Data-Driven Customer Insights---Marketing Strategy" href="https://github.com/annahthepooh/Data-Driven-Customer-Insights---Marketing-Strategy" coords="52,150,795,186" shape="rect">
-  </map>
 </p>
 
 <!-- 2ND -->
 <p align="center">
   <img src="./Assets/2nd project.png" alt="Skills and Tools" width="100%">
-  <img src="2nd project.png" usemap="#image-map">
-
-  <map name="#image-map">
-    <area target="_blank" alt="Customer Segmentation &amp;RFM-Based Marketing Strategies" title="Customer Segmentation &amp;RFM-Based Marketing Strategies" href="https://github.com/annahthepooh/Customer-Segmentation-and-RFM-Based-Marketing-Strategies" coords="52,76,874,18" shape="rect">
-  </map>
 </p>
 
 <!-- 3RD -->
 <p align="center">
   <img src="./Assets/3rd project.png" alt="Skills and Tools" width="100%">
-  <img src="3rd project.png" usemap="#image-map">
-
-  <map name="#image-map">
-    <area target="_blank" alt="Retail Sales Performance &amp;Customer Insights Analysis" title="Retail Sales Performance &amp;Customer Insights Analysis" href="https://github.com/annahthepooh/Retail-Sales-Performance-and-Customer-Insights-Analysis" coords="" shape="rect">
-  </map>
 </p>
 
 <!-- 4TH -->
 <p align="center">
   <img src="./Assets/4th project.png" alt="Skills and Tools" width="100%">
-  <img src="4th project.png" usemap="#image-map">
-
-  <map name="#image-map">
-    <area target="_blank" alt="Employee Attrition Risk Analysis &amp;Retention Strategy" title="Employee Attrition Risk Analysis &amp;Retention Strategy" href="https://github.com/annahthepooh/Employee-Attrition-Risk-Analysis-and-Retention-Strategy" coords="61,66,822,108" shape="rect">
-  </map>
 </p>
 
 <!-- CONTACT -->
