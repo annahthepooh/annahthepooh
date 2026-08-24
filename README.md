@@ -10,8 +10,8 @@
   </a>
   
   <a href="mailto:annakoth64@gmail.com">
-    <img src="https://img.shields.io/badge/email-me-graymagenta?style=flat&logo=gmail&logoColor=e7d7b8&logoSize=auto&labelColor=grey&color=b46490
-    " alt="Email">
+  <img src="https://img.shields.io/badge/email-me?style=flat&logo=gmail&logoColor=e7d7b8&logoSize=auto&labelColor=grey&color=b46490
+  " alt="Email">
   </a>
   <img scr="in touch.png" usemap="#image-map">
 
@@ -25,16 +25,8 @@
 <!-- ABOUT -->
 <p align="center">
   <img src="./Assets/2nd.png" alt="About Ann Akoth" width="100%">
-</p>
-
-<!-- EXPERTISE -->
-<p align="center">
   <img src="./Assets/3rd.png" alt="Areas of Expertise" width="100%">
   <img src="./Assets/4th.png" alt="Skills and Tools" width="100%">
-</p>
-
-<!-- FEATURED ANALYTICS PROJECT -->
-<p align="center">
   <img src="./Assets/1st project.png" alt="Skills and Tools" width="100%">
 </p>
 
