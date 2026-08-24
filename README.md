@@ -1,76 +1,35 @@
-<!-- 1. Dynamic native theme banner switcher -->
-
-
+<!-- BANNER -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Assets/github banner dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="./Assets/github banner light.png">
-    <img alt="Light-themed profile banner introducing Ann Akoth as a data analyst and digital marketing specialist" src="./Assets/github banner light.png">
-  </picture>
+  <img src="./Assets/intro.png" alt="Ann Akoth - Data Analyst" width="100%">
 </p>
 
-
-
-<!-- 2. Hand coded interactive quick links -->
-
+<!-- CONNECT -->
 <p align="center">
-   <a href="mailto:annakoth64@gmail.com" style="colour: black"><b>Email Me</b></a> 
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-   <a href="https://github.com/annahthepooh" style="colour: black"><b>GitHub Portfolio</b></a> 
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/akoth-ann-10835b246/" style="colour: black"><b>Connect on LinkedIn</b></a>
-</p>
----
-
-# Hi, I’m Ann Akoth 😊
-
-A data analyst and a digital marketing specialist passionate about turning raw complex data into actionable business insights. I enjoy combining data analytics with digital marketing strategies to drive growth and improve decision-making.
-
-
-###  My Toolbox
-
-<p align="left">
-  <!-- SQL -->
-  <span style="position: relative; display: inline-block; margin-right: 15px;">
-    <img src="./Assets/sql color.png" alt="SQL" />
-    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.6); padding: 2px 5px; font-size: 12px;">SQL</span>
-  </span>
-
-  <!-- Excel -->
-  <span style="position: relative; display: inline-block; margin-right: 15px;">
-    <img src="./Assets/excel color.png" alt="Excel" />
-    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.6); padding: 2px 5px; font-size: 12px;">Excel</span>
-  </span>
-
-  <!-- Power BI -->
-  <span style="position: relative; display: inline-block; margin-right: 15px;">
-    <img src="./Assets/power bi color.png" alt="Power BI" />
-    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.6); padding: 2px 5px; font-size: 12px;">Power BI</span>
-  </span>
-
-  <!-- Tableau -->
-  <span style="position: relative; display: inline-block; margin-right: 15px;">
-    <img src="./Assets/excel color.png" alt="Tableau" />
-    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.6); padding: 2px 5px; font-size: 12px;">Tableau</span>
-  </span>
-
-  <!-- Marketing Analytics -->
-  <span style="position: relative; display: inline-block; margin-right: 15px;">
-    <img src="./Assets/marketing analytics.png" alt="Marketing Analytics" />
-    <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background: rgba(0,0,0,0.6); padding: 2px 5px; font-size: 12px;">Marketing</span>
-  </span>
-</p>
+  <a href="https://www.linkedin.com/in/akoth-ann-10835b246">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-5B3442?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   
+  <a href="annakoth64@gmail.com">
+    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-B57A8A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Email">
+  </a>
+</p>
 
-### Areas of Expertise
-- **Analytics & Strategy:** Customer segmentation and tying data directly to digital marketing strategies.
-- **Data Engineering:** Structuring, cleaning and querying large datasets using SQL and Excel.
-- **Business Intelligence:** Crafting immersive dashboards in Power BI to democratize data insights.
+<br>
 
-###  Currently Expanding My Skills In:
--  **Python** for advanced analytics
--  **AI Applications** in marketing technology
--  **German** language skills 😊
+<!-- ABOUT -->
+<p align="center">
+  <img src="./Assets/2nd.png" alt="About Ann Akoth" width="100%">
+</p>
+
+<!-- EXPERTISE -->
+<p align="center">
+  <img src="./Assets/3rd.png" alt="Areas of Expertise" width="100%">
+</p>
+
+<!-- SKILLS -->
+<p align="center">
+  <img src="./Assets/4th.png" alt="Skills and Tools" width="100%">
+</p>
 
 ---
 
@@ -94,9 +53,7 @@ A data analyst and a digital marketing specialist passionate about turning raw c
 
 ---
 
-###  Get In Touch!
-I am always open to collaborating on data analytics projects, marketing strategies or just networking!
-
-[![LinkedIn]("./Assets/linkedin logo.png")](https://www.linkedin.com/in/akoth-ann-10835b246/)
-[![Email]("./Assets/email.png")](mailto:annakoth64@gmail.com)
-
+<!-- CONTACT -->
+<p align="center">
+  <img src="./Assets/in touch.png" alt="Get In Touch" width="100%">
+</p>
