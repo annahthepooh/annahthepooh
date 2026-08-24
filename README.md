@@ -12,6 +12,11 @@
   <a href="annakoth64@gmail.com">
     <img src="https://img.shields.io/badge/Portfolio-View_My_Work-B57A8A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Email">
   </a>
+  <img scr="in touch.png" usemap="#image-map">
+
+  <map name="image-map">
+    <area target="_blank" alt="LinkedIn" href="https://www.linkedin.com/in/akoth-ann-10835b246/" coords="422,221,275,271" shape="rect">
+    <area target="_blank" alt="Email" href="annakoth64@gmail.com" coords="232,325,349,283" shape="rect">
 </p>
 
 <br>
