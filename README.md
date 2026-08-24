@@ -10,7 +10,7 @@
   </a>
   
   <a href="mailto:annakoth64@gmail.com">
-  <img src="https://img.shields.io/badge/email-me?style=flat&logo=gmail&logoColor=e7d7b8&logoSize=auto&labelColor=grey&color=b46490
+  <img src="https://img.shields.io/badge/email-me?style=for-the-badge&logo=gmail&logoColor=e7d7b8&labelColor=555555&color=b46490
   " alt="Email">
   </a>
   <img scr="in touch.png" usemap="#image-map">
@@ -30,8 +30,9 @@
   <img src="./Assets/1st project.png" alt="Skills and Tools" width="100%">
 </p>
 
-<br>
+
 This is the link: <u>https://github.com/annahthepooh/Data-Driven-Customer-Insights---Marketing-Strategy</u>
+
 <br>
 
 <!-- 2ND -->
@@ -39,8 +40,9 @@ This is the link: <u>https://github.com/annahthepooh/Data-Driven-Customer-Insigh
   <img src="./Assets/2nd project.png" alt="Skills and Tools" width="100%">
 </p>
 
-<br>
+
 This is the link: <u>https://github.com/annahthepooh/Customer-Segmentation-and-RFM-Based-Marketing-Strategies</u>
+
 <br>
 
 <!-- 3RD -->
@@ -48,8 +50,9 @@ This is the link: <u>https://github.com/annahthepooh/Customer-Segmentation-and-R
   <img src="./Assets/3rd project.png" alt="Skills and Tools" width="100%">
 </p>
 
-<br>
+
 This is the link: <u>https://github.com/annahthepooh/Retail-Sales-Performance-and-Customer-Insights-Analysis</u>
+
 <br>
 
 <!-- 4TH -->
@@ -57,8 +60,9 @@ This is the link: <u>https://github.com/annahthepooh/Retail-Sales-Performance-an
   <img src="./Assets/4th project.png" alt="Skills and Tools" width="100%">
 </p>
 
-<br>
+
 This is the link: <u>https://github.com/annahthepooh/Employee-Attrition-Risk-Analysis-and-Retention-Strategy</u> 
+
 <br>
 
 <!-- CONTACT -->
