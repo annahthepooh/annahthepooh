@@ -10,7 +10,7 @@
   </a>
   
   <a href="mailto:annakoth64@gmail.com">
-  <img src="https://img.shields.io/badge/email-me?style=for-the-badge&logo=maildotru&logoColor=mauve" alt="Email">
+  <img src="https://img.shields.io/badge/email-me?style=for-the-badge&logo=maildotru&color=violet" alt="Email">
   </a>
   <img scr="in touch.png" usemap="#image-map">
 
