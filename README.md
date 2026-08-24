@@ -30,10 +30,6 @@
 <!-- EXPERTISE -->
 <p align="center">
   <img src="./Assets/3rd.png" alt="Areas of Expertise" width="100%">
-</p>
-
-<!-- SKILLS -->
-<p align="center">
   <img src="./Assets/4th.png" alt="Skills and Tools" width="100%">
 </p>
 
@@ -41,25 +37,37 @@
 <p align="center">
   <img src="./Assets/1st project.png" alt="Skills and Tools" width="100%">
 </p>
-*This is the link:* <u>**https://github.com/annahthepooh/Data-Driven-Customer-Insights---Marketing-Strategy**</u>
+
+<br>
+This is the link: <u>https://github.com/annahthepooh/Data-Driven-Customer-Insights---Marketing-Strategy</u>
+<br>
 
 <!-- 2ND -->
 <p align="center">
   <img src="./Assets/2nd project.png" alt="Skills and Tools" width="100%">
 </p>
-*This is the link:* <u>**https://github.com/annahthepooh/Customer-Segmentation-and-RFM-Based-Marketing-Strategies**</u>
+
+<br>
+This is the link: <u>https://github.com/annahthepooh/Customer-Segmentation-and-RFM-Based-Marketing-Strategies</u>
+<br>
 
 <!-- 3RD -->
 <p align="center">
   <img src="./Assets/3rd project.png" alt="Skills and Tools" width="100%">
 </p>
-*This is the link:* <u>**https://github.com/annahthepooh/Retail-Sales-Performance-and-Customer-Insights-Analysis**</u>
+
+<br>
+This is the link: <u>https://github.com/annahthepooh/Retail-Sales-Performance-and-Customer-Insights-Analysis</u>
+<br>
 
 <!-- 4TH -->
 <p align="center">
   <img src="./Assets/4th project.png" alt="Skills and Tools" width="100%">
 </p>
-*This is the link:* <u>**https://github.com/annahthepooh/Employee-Attrition-Risk-Analysis-and-Retention-Strategy**</u>
+
+<br>
+This is the link: <u>https://github.com/annahthepooh/Employee-Attrition-Risk-Analysis-and-Retention-Strategy</u> 
+<br>
 
 <!-- CONTACT -->
 <p align="center">
