@@ -24,9 +24,9 @@
 <!-- ABOUT -->
 <p align="center">
   <img src="./Assets/2nd.png" alt="About Ann Akoth" width="100%">
-  <img src="./Assets/3rd.png" alt="Areas of Expertise" width="100%">
+  <img src="./Assets/replace.png" alt="Areas of Expertise" width="100%">
   <img src="./Assets/4th.png" alt="Skills and Tools" width="100%">
-  <img src="./Assets/1st project.png" alt="Skills and Tools" width="100%">
+  <img src="./Assets/proj21 .png" alt="Skills and Tools" width="100%">
 </p>
 
 
